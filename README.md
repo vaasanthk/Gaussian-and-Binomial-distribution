@@ -11,7 +11,3 @@ Binomial distribution with parameters n and p is the discrete probability distri
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=%7B%5Cdisplaystyle%20f%28k%2Cn%2Cp%29%3D%5CPr%28k%3Bn%2Cp%29%3D%5CPr%28X%3Dk%29%3D%7B%5Cbinom%20%7Bn%7D%7Bk%7D%7Dp%5E%7Bk%7D%281-p%29%5E%7Bn-k%7D%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="{\displaystyle f(k,n,p)=\Pr(k;n,p)=\Pr(X=k)={\binom {n}{k}}p^{k}(1-p)^{n-k}}" width="436" height="47" />
 
-Source code
-You can check the latest sources with the command:
-
-git clone https://github.com/scikit-learn/scikit-learn.git
