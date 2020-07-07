@@ -1,3 +1,8 @@
+
+![Distribution](https://tinyheero.github.io/assets/prob-distr/overview-prob-distr.png)
+
+img source: https://tinyheero.github.io/2016/03/17/prob-distr.html
+
 gb-distributions is a Python module for machine learning, its prime functionality of modules is to measure Gaussian and Binomial distribution's mean, standard deviation, and PDF(Probability Density Function).
 The module also supports data and PDF visualization, source code is available at the bottom of the page.
 
